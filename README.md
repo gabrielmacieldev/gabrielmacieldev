@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Desenvolvedor Web Front-end em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu
+Olá sou o Gabriel, Desenvolvedor Web Front-end! 
 
 
 ## 🌐 Redes Sociais:
