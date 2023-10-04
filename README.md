@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Gabriel Maciel<br>I'm from Rio de Janeiro - RJ, Brazil!
 
-[(https://portfolio-ten-alpha-24.vercel.app/)]
+[Portfolio](https://portfolio-ten-alpha-24.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabrielmacieldev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabrielmacieldev/) 
