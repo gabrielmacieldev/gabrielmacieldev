@@ -4,7 +4,7 @@
 </a>
 </div><br>
 
-<div color="white">
+<div color="red">
 <h1 fontSize="10px">🖥️ Software Developer</h1>
 <p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)
 </div>
