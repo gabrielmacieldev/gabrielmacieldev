@@ -2,12 +2,12 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=green&center=true&vCenter=true&width=700&lines=Hello!+I+am+Gabriel+👋+Welcome+to+my+Profile+💻;" alt="Olá, Eu sou Gabriel, bem vindo ao meu perfil.">
 </a>
+    
 </div><br>
-
 <div color="white">
-🖥️ Software Developer
-📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
-'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)        
+<p>🖥️ Software Developer</p>
+<p>📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)</p>
+<p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)</p>
 </div>
 
 
