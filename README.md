@@ -1,4 +1,8 @@
-## Hello! I am Gabriel, welcome to my profile! 🖐
+<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=black&center=true&vCenter=true&width=700&lines=Hello!+I+am+Gabriel+👋+Welcome+to+my+Profile+💻;" alt="Olá, Eu sou Gabriel, bem vindo ao meu perfil.">
+</a>
+</div>
 
 🖥️ Software Developer
 
