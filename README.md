@@ -6,7 +6,7 @@
 
 <div color="white">
 <p>🖥️ Software Developer</p>
-<p>📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)</p>
+📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
 <p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)</p>
 </div>
 
