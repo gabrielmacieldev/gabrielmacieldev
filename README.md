@@ -5,7 +5,7 @@
 </div><br>
 
 <div>
-<div>🖥️ Software Developer</div>
+<div>🖥️ Software Developer</div><br>
 <p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)
 </div>
 
