@@ -4,8 +4,9 @@
 </a>
 </div><br>
 
-<div align="center">
-🖥️ Software Developer<br>
+<div>
+    
+🖥️ Software Developer
 
 📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
 
