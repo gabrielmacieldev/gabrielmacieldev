@@ -5,7 +5,7 @@
 </div><br>
 
 <div color="white">
-<h1 fontsize="20px">🖥️ Software Developer</h1>
+<h1 fontSize="10px">🖥️ Software Developer</h1>
 <p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)
 </div>
 
