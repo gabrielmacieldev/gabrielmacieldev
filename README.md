@@ -5,7 +5,7 @@
 </div><br>
 
 <div>
-<h1 size="5px">🖥️ Software Developer</h1>
+<div>🖥️ Software Developer</div>
 <p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)
 </div>
 
