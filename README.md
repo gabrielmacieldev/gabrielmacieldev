@@ -4,9 +4,11 @@
 </a>
 </div><br>
 
+<div color="white">
 #### 🖥️ Software Developer
 #### 📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
-#### 'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)    
+#### 'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)        
+</div>
 
 
 ## 🌐 Available to chat:
