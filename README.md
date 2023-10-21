@@ -6,7 +6,7 @@
 
 <div color="white">
 <h1>🖥️ Software Developer</h1>
-<p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)/p>
+<p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)/>
 </div>
 
 📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
