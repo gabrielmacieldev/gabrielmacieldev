@@ -8,8 +8,8 @@
 <p>🖥️ Software Developer</p>
 <p>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)</p>
 </div>
-📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
 
+📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
 
 ## 🌐 Available to chat:
 <a href="https://www.instagram.com/gabrielmacieldev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
