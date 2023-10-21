@@ -1,4 +1,4 @@
-<h2>Hello! I am Gabriel, welcome to my profile! 🖐</h2>
+## <h2>Hello! I am Gabriel, welcome to my profile! 🖐</h2>
 
 🖥️ Software Developer
 
