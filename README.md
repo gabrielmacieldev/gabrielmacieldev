@@ -1,7 +1,10 @@
-<h2>Hello! I am Gabriel, welcome to my profile! 🖐</h2><br>
-🖥️ Software Developer <br>
-📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)<br> 
-<br>'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)
+<h2>Hello! I am Gabriel, welcome to my profile! 🖐</h2>
+
+🖥️ Software Developer
+
+📃 My portfolio: [Click here!](https://portfolio-ten-alpha-24.vercel.app/)
+
+'The mind that opens itself to a new idea will never return to its original size.' (Albert Einstein)
 
 ## 🌐 Socials:
 <a href="https://www.instagram.com/gabrielmacieldev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
